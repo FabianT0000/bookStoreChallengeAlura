@@ -41,31 +41,38 @@ El menú principal de la aplicación incluye las siguientes funcionalidades:
 ## 🖥️ Demostración de Funcionalidades
 
 ### 🔍 Buscar libro por título
-![Buscar libro](ruta/a/imagen_buscar_libro.png)  
+![Listar libros](src/assets/img_readme/buscar_libro.PNG)
+---
+
 *Se busca el libro por el titulo ingresado del usuario en la Api de Gutendex y luego se verifica si ya se ha registrado en la base de datos el autor y el libro, en caso de que el autor ya exista entonces solo se guarda el libro en la base de datos de PostresSQL.*
 
 ---
 
 ### 📚 Listar libros registrados
-![Listar libros](ruta/a/imagen_listar_libros.png)  
+![Listar libros](src/assets/img_readme/listar_libros.PNG)
+---
 *Muestra todos los libros guardados en la base de datos.*
 
 ---
 
 ### 🧑‍🎨 Listar autores registrados
-![Autores registrados](ruta/a/imagen_autores_registrados.png)  
+![Autores registrados](src/assets/img_readme/listar_autores.PNG)
+---
+
 *Visualización de los autores que ya se han registrado en la base de datos.*
 
 ---
 
 ### 📅 Autores vivos en determinado año
-![Autores vivos](ruta/a/imagen_autores_vivos.png)  
+![Listar por fecha](src/assets/img_readme/listar_por_fecha.PNG)
+---
 *Filtrado de autores que estaban vivos en un año ingresado por el usuario .*
 
 ---
 
 ### 🌐 Listar libros por idioma
-![Libros por idioma](ruta/a/imagen_libros_idioma.png)  
+![Libros por idioma](src/assets/img_readme/libro_por_idioma.PNG)
+---
 *Filtrado de libros en la base de datos según idioma ingresado por el usuario.*
 
 ---
